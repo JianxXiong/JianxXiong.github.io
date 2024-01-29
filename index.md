@@ -7,8 +7,8 @@ layout: default
 
 ## Research interests
 
-  1. **cyber security**(_reverse engineering_)
-  2. **AI application security**
+  1. cyber security(_reverse engineering_)
+  2. AI application security
 
 ## Contact
 
