@@ -12,4 +12,4 @@ layout: default
 
 ## Contact
 
- Email: [jianxiong0913 [AT] 163.com](jianxiong0913@163.com)
+ Email: jianxiong0913 [AT] 163.com
