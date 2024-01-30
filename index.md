@@ -7,9 +7,9 @@ layout: default
 
 ## Research interests
 
-  1. cyber security(_reverse engineering_)
-  2. AI application security
+1. AI application security
+2. cyber security(_reverse engineering_)
 
 ## Contact
 
-**jianxiong0913@163.com**
+​	 Email: jianxiong0913 [AT] 163.com
