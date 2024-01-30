@@ -8,7 +8,8 @@ layout: default
 ## Research interests
 
 1. AI application security
-2. cyber security(_reverse engineering_)
+2. cyber security
+3. machine learning and deep learning
 
 ## Contact
 
