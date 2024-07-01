@@ -3,13 +3,11 @@ layout: default
 ---
 # About me
 
- I'am currently a senior undergraduate in the College of Computer Science and Software Engineering, Hohai University. I will get my bachelor degree in June, 2024. 
+I'am currently pursuing my master degree in the School of Computer Science, Fudan University. In June 2024, I obtained my bachelor degree in thr College of Computer Science and Software Engineering, Hohai University.
 
 ## Research interests
 
-1. cyber security
-2. reverse engineering
-3. machine learning and deep learning
+My research mainly focuses on cyber security, especially system security.
 
 ## Contact
 
