@@ -11,4 +11,4 @@ My research mainly focuses on Artificial Intelligence, especially in deep learni
 
 ## Contact
 
- <Email: jianxiong0913 [AT] 163.com>
+ Email: <jianxiong0913@163.com>
