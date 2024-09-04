@@ -3,16 +3,16 @@ layout: archive
 title: "Jian Xiong"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 {% include base_path %}
 
 Education
 ======
-* M.Eng. in the School of Computer Science, Fudan University, Shanghai, 2027(expected)
-* B.Eng. in the College of Computer Science annd Software Engineering, Hohai University, Nanjing, 2024
+* M.Eng in the School of Computer Science, Fudan University, Shanghai, 2027(expected)
+* B.Eng in the College of Computer Science annd Software Engineering, Hohai University, Nanjing, 2024
 
 <!-- Work experience
 ======
