@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jian Xiong / Resume"
-title_separator          : "_"
+title                    : "Jian Xiong"
+title_separator          : "-"
 name                     : &name "Jian Xiong"
 description              : &description "personal description"
 url                      : https://JianxXiong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
