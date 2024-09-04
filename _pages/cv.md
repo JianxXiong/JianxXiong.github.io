@@ -36,9 +36,24 @@ Awards
 * Meritorious Winner in [Mathematical Contest In Modeling](https://www.comap.com/contests/mcm-icm), 2023
 * Second Prize in the National Finals in [China Software Cup](https://www.cnsoftbei.com), 2023
 * First Prize of Jiangsu Province in [China Undergraduate Mathematical Contest In Modeling](https://www.mcm.edu.cn), 2022
-* Regional Third Prize of East China in [China Student Service Outsourcing Innovation and Entrepreneurship Competition](http://www.fwwb.org.cn/), 2023
-* Regional Third Prize of East China in [China Student Service Outsourcing Innovation and Entrepreneurship Competition](http://www.fwwb.org.cn/), 2022
-* Academic Excellence Scholarship, Academic Progress Scholarship, Technology and Innovation Scholarship, Spiritual Scholarship, Scholarship for Excellence in Social Work of [Hohai University](https://www.hhu.edu.cn)
+* Regional Third Prize of East China in [Service Outsourcing Innovation and Entrepreneurship Competition](http://www.fwwb.org.cn/), 2023
+* Regional Third Prize of East China in [Service Outsourcing Innovation and Entrepreneurship Competition](http://www.fwwb.org.cn/), 2022
+* Charismatic graduate of [Hohai University](https://www.hhu.edu.cn).
+* Excellent Communist Youth League Member of [Hohai University](https://www.hhu.edu.cn).
+* Honor of [Hohai University](https://www.hhu.edu.cn).
+  * Excellent Student
+  * Excellent Student Pacesetter
+  * Excellent Student Cadre
+* Scholarship of [Hohai University](https://www.hhu.edu.cn).
+  * Academic Excellence Scholarship
+  * Academic Progress Scholarship
+  * Science, Technology and Innovation Scholarship
+  * Spiritual Scholarship
+  * Scholarship for Excellence in Social Work
+
+Patent
+======
+
 
 Skills
 ======
