@@ -7,8 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jian Xiong, born on September 13, 2003. I obtained my bachelor of engineering degree from [Hohai University](https://www.hhu.edu.cn) in June, 2024.
+My name is Jian Xiong, born on September 13, 2003. I obtained my bachelor of engineering degree from [Hohai University](https://www.hhu.edu.cn) in June, 2024. Currently, I am pursuing my master degree in [Fudan University](https://www.fudan.edu.cn).
 
+
+Research interests
+======
+* LLM Safety
+* Machine Learning and Deep Learning
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
