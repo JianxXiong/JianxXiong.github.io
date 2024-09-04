@@ -31,7 +31,7 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
 
-Awards
+Award
 ======
 * Meritorious Winner in [Mathematical Contest In Modeling](https://www.comap.com/contests/mcm-icm), 2023
 * Second Prize in the National Finals in [China Software Cup](https://www.cnsoftbei.com), 2023
@@ -40,7 +40,7 @@ Awards
 * Regional Third Prize of East China in [Service Outsourcing Innovation and Entrepreneurship Competition](http://www.fwwb.org.cn/), 2022
 * Charismatic graduate of [Hohai University](https://www.hhu.edu.cn).
 * Excellent Communist Youth League Member of [Hohai University](https://www.hhu.edu.cn).
-* Honor of [Hohai University](https://www.hhu.edu.cn).
+* Honors of [Hohai University](https://www.hhu.edu.cn).
   * Excellent Student
   * Excellent Student Pacesetter
   * Excellent Student Cadre
