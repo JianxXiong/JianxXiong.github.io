@@ -30,10 +30,16 @@ Education
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
-  
+
+Awards
+======
+* Meritorious Winner in [Mathematical Contest In Modeling](https://www.comap.com/contests/mcm-icm), 2023
+* Second Prize in the National Finals in [China Software Cup](https://www.cnsoftbei.com), 2023
+* First Prize of Jiangsu Province in [China Undergraduate Mathematical Contest In Modeling](https://www.mcm.edu.cn), 2022
+
 Skills
 ======
-* coding experience in AI(Python, Pytorch, Huggingface)
+* coding experience in AI(Python, Pytorch, Huggingface, Numpy, Pandas)
 * coding experience in web-dev(Java, JavaScript, HTML, CSS, SpringBoot, MySQL, Mybatis)
 
 <!-- Publications
@@ -57,7 +63,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-
-Awards
-======
-* 
