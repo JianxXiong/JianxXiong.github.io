@@ -53,7 +53,7 @@ Awards
 
 Patent
 ======
-* Jian Xiong, Jingyu Zhang, Jianli Ding, 一种圆形无人机编队的调整方法, 国家发明专利, 受理时间：2022.12.16，申请号：202211637879.1 
+* Jian Xiong, Jingyu Zhang, Jianli Ding, A method of adjusting a circular UAV formation, National Invention Patent, Acceptance: 2022.12.16，Application Number：202211637879.1 
 
 Skills
 ======
