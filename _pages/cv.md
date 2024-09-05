@@ -43,7 +43,7 @@ Award
   * Excellent Student
   * Excellent Student Pacesetter
   * Excellent Student Cadre
-* Scholarship of [Hohai University](https://www.hhu.edu.cn).
+* Scholarships of [Hohai University](https://www.hhu.edu.cn).
   * Academic Excellence Scholarship
   * Academic Progress Scholarship
   * Science, Technology and Innovation Scholarship
