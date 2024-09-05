@@ -36,8 +36,7 @@ Award
 * Meritorious Winner in [Mathematical Contest In Modeling](https://www.comap.com/contests/mcm-icm), 2023
 * Second Prize in the National Finals in [China Software Cup](https://www.cnsoftbei.com), 2023
 * First Prize of Jiangsu Province in [China Undergraduate Mathematical Contest In Modeling](https://www.mcm.edu.cn), 2022
-* Regional Third Prize of East China in [Service Outsourcing Innovation and Entrepreneurship Competition](http://www.fwwb.org.cn/), 2023
-* Regional Third Prize of East China in [Service Outsourcing Innovation and Entrepreneurship Competition](http://www.fwwb.org.cn/), 2022
+* Regional Third Prize of East China in [Service Outsourcing Innovation and Entrepreneurship Competition](http://www.fwwb.org.cn/), 2022/2023
 * Charismatic graduate of [Hohai University](https://www.hhu.edu.cn).
 * Excellent Communist Youth League Member of [Hohai University](https://www.hhu.edu.cn).
 * Honors of [Hohai University](https://www.hhu.edu.cn).
