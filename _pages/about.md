@@ -7,17 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jian Xiong, born on September 13, 2003. I obtained my bachelor degree of engineering from [Hohai University](https://www.hhu.edu.cn) in June, 2024. Currently, I am pursuing my master degree in [Fudan University](https://www.fudan.edu.cn).
+My name is Jian Xiong, born on September 13, 2003. I obtained my bachelor degree of engineering from [Hohai University](https://www.hhu.edu.cn) in June, 2024. Currently, I am pursuing my master degree in [Fudan University](https://www.fudan.edu.cn). My research interests include Machine Learning and Deep Learning.
 
 
-Research interests
+News
 ======
-* LLM Safety
-* Machine Learning and Deep Learning
+* Welcome to browse my site!
+* I am seeking opportunity to collaborating with you on projects related to AI.
 
-
-My personal page is still under construction!!!
-======
 
 
 
