@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jian Xiong, born on September 13, 2003. I obtained my bachelor degree of engineering from [Hohai University](https://www.hhu.edu.cn) in June, 2024. Currently, I am pursuing my master degree in [Fudan University](https://www.fudan.edu.cn).
+My name is Jian Xiong, born on September 13, 2003. I obtained my bachelor degree of engineering from [Hohai University](https://www.hhu.edu.cn) in June, 2024. Currently, I am pursuing my master degree in [Fudan University](https://www.fudan.edu.cn) supervised by [Prof. Dejing Dou](https://faculty.fudan.edu.cn/DejingDou/zh_CN/index.htm).
 
 
 News
 ======
 * Welcome to browse my site!
 * I am seeking opportunity to collaborate with you on projects related to AI.
-
 
 
 
