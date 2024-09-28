@@ -13,6 +13,8 @@ Education
 ======
 * M.Eng in the School of Computer Science, Fudan University, Shanghai, 2027(expected)
 * B.Eng in the College of Computer Science annd Software Engineering, Hohai University, Nanjing, 2024
+  + Major: Computer Science
+  + Rank: 1st
 
 <!-- Work experience
 ======
