@@ -13,7 +13,7 @@ My name is Jian Xiong, born on September 13, 2003. I obtained my bachelor degree
 News
 ======
 * Welcome to browse my site!
-* I am seeking opportunity to collaborate with you on projects related to AI.
+* I am seeking opportunity to collaborate with you on projects related to diffusion(in computer vision).
 
 
 

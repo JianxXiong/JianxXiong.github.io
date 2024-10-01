@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Jian Xiong"
+#title: "Jian Xiong"
 permalink: /cv/
 author_profile: true
 # redirect_from:
