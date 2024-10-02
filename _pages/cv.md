@@ -56,7 +56,7 @@ Patent
 
 Skills
 ======
-* coding experience in AI(Python, Pytorch, transformers, Numpy, Pandas)
+* coding experience in AI(Python, Pytorch, transformers, deepspeed, Numpy, Pandas)
 * coding experience in web-dev(Java, JavaScript, HTML, CSS, SpringBoot, MySQL, Mybatis)
 
 <!-- Publications
