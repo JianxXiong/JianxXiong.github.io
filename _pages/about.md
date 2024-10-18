@@ -24,13 +24,13 @@ I am a graduate student in School of Computer Science at Fudan University, super
 - *2024.06*: &nbsp;🎉🎉 I graduated from Hohai University!
 
 # 🎖 Honors and Awards
+- *2024.06* Charismatic graduate of Hohai University.
 - *2023.08* Second Prize in the National Finals in China Software Cup. 
 - *2023.06* Regional Third Prize of East China in Service Outsourcing Innovation and Entrepreneurship Competition.
+- *2023.05* Excellent Communist Youth League Member of Hohai University.
 - *2023.05* Meritorious Winner in Mathematical Contest In Modeling. 
 - *2022.10* First Prize of Jiangsu Province in China Undergraduate Mathematical Contest In Modeling.
 - *2022.06* Regional Third Prize of East China in Service Outsourcing Innovation and Entrepreneurship Competition.
-- *2024.06* Charismatic graduate of Hohai University.
-- *2023.05* Excellent Communist Youth League Member of Hohai University.
 - Honors from Hohai University(Excellent Student, Excellent Student Cadre, Excellent Student Pacesetter).
 - Scholarships from Hohai University(Academic Excellence, Academic Progress, Technology and Innovation, Spiritual, Excellence in Social Work).
 
