@@ -20,7 +20,7 @@ redirect_from:
 I am a graduate student in School of Computer Science at Fudan University, supervised by [Prof. Dejing Dou](https://faculty.fudan.edu.cn/DejingDou/zh_CN/index.htm). I obtained my B.Eng degree from College of Computer Science and Software Engineering at Hohai University in Jun. 2024.
 
 # 🔥 News
-- *now*: &nbsp;🎉🎉 Have a good day. 
+- *now*: Have a good day. 
 - *2024.06*: &nbsp;🎉🎉 I graduated from Hohai University!
 
 <!-- # 📝 Publications 
