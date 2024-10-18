@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jian Xiong"
-description              : # ""
+description              : "A graduate student"
 repository               : "JianxXiong/JianxXiong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jian Xiong"
   avatar           : "images/profile.png"
-  bio              : "hahahah"
+  bio              : # "hahahah"
   location         : "Shanghai, China"
   employer         : #"Fudan University"
   pubmed           : 
